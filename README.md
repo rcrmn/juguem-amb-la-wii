@@ -7,4 +7,4 @@ Llicència Creative Commons.
 
 Treball guanyador de premi CIRIT 2009.
 
-El treball en sí està penjat aquí: [http://www.recercat.net/handle/2072/43657]
+El treball en sí està penjat aquí: http://www.recercat.net/handle/2072/43657
